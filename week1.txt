@@ -1,2 +1,6 @@
 Đây là file week1.txt
+<<<<<<< HEAD
 Thuộc Branch: week1 và main
+=======
+Thuộc Branch: week1 mà thôi
+>>>>>>> week1
